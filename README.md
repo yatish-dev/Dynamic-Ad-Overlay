@@ -120,6 +120,6 @@ This is a research and demo project. Patent pending. For demo/product pilot purp
 Pull requests welcome! For major changes, please open an issue first.
 
 ## 📬 Contact  
-Created by [Your Name] — [🔗 LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yatish-jobanputra-711468362/)) · [✉️ Email Me](mailto:yatishjobanputra@outlook.com)
+Created by [Yatish Jobanputra] — [🔗 LinkedIn Profile](https://www.linkedin.com/in/yatish-jobanputra-711468362/) · [✉️ Email Me](mailto:yatishjobanputra@outlook.com)
 
 For business/partnership inquiries, reach out with the subject line: `Dynamic Ad Overlay Collaboration`
